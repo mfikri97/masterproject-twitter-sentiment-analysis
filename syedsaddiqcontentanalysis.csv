@@ -1,0 +1,61 @@
+,Label,Sentiment Aggregation Category,Low Engagement Rate,High Engagement Rate
+0,Criticism of justice system,High Negative,1,0
+1,Criticism of justice system,Low Negative,1,0
+2,Criticism of justice system,Low Positive,0,0
+3,Criticism of justice system,High Positive,0,0
+4,General Information,High Negative,0,0
+5,General Information,Low Negative,1,0
+6,General Information,Low Positive,15,1
+7,General Information,High Positive,2,0
+8,Government criticism,High Negative,0,0
+9,Government criticism,Low Negative,8,1
+10,Government criticism,Low Positive,10,0
+11,Government criticism,High Positive,0,0
+12,MUDA Update,High Negative,0,0
+13,MUDA Update,Low Negative,0,0
+14,MUDA Update,Low Positive,1,0
+15,MUDA Update,High Positive,1,0
+16,Natural Disaster,High Negative,0,0
+17,Natural Disaster,Low Negative,1,0
+18,Natural Disaster,Low Positive,2,0
+19,Natural Disaster,High Positive,0,0
+20,Political Allegation,High Negative,0,0
+21,Political Allegation,Low Negative,1,0
+22,Political Allegation,Low Positive,1,0
+23,Political Allegation,High Positive,0,0
+24,Political Discussion,High Negative,0,0
+25,Political Discussion,Low Negative,4,0
+26,Political Discussion,Low Positive,3,1
+27,Political Discussion,High Positive,1,2
+28,Political Dispute,High Negative,0,0
+29,Political Dispute,Low Negative,3,2
+30,Political Dispute,Low Positive,3,0
+31,Political Dispute,High Positive,0,0
+32,Public Compliance,High Negative,0,0
+33,Public Compliance,Low Negative,1,0
+34,Public Compliance,Low Positive,2,1
+35,Public Compliance,High Positive,0,0
+36,Relief Efforts,High Negative,0,0
+37,Relief Efforts,Low Negative,1,0
+38,Relief Efforts,Low Positive,8,2
+39,Relief Efforts,High Positive,1,2
+40,Social Issues,High Negative,1,0
+41,Social Issues,Low Negative,0,0
+42,Social Issues,Low Positive,0,0
+43,Social Issues,High Positive,0,0
+44,Support for youth advocacy,High Negative,0,0
+45,Support for youth advocacy,Low Negative,0,0
+46,Support for youth advocacy,Low Positive,1,0
+47,Support for youth advocacy,High Positive,0,0
+48,Viral Issue - Handicapped Shamming ,High Negative,0,0
+49,Viral Issue - Handicapped Shamming ,Low Negative,2,0
+50,Viral Issue - Handicapped Shamming ,Low Positive,0,0
+51,Viral Issue - Handicapped Shamming ,High Positive,0,0
+52,Viral Issue - Hannah Yeoh (Selendang),High Negative,0,0
+53,Viral Issue - Hannah Yeoh (Selendang),Low Negative,1,0
+54,Viral Issue - Hannah Yeoh (Selendang),Low Positive,1,0
+55,Viral Issue - Hannah Yeoh (Selendang),High Positive,0,0
+56,Viral Issue - VIP culture,High Negative,0,0
+57,Viral Issue - VIP culture,Low Negative,0,1
+58,Viral Issue - VIP culture,Low Positive,0,0
+59,Viral Issue - VIP culture,High Positive,0,0
